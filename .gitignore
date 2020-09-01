@@ -4,6 +4,7 @@ HELP.md
 .gradle
 build/
 target/
+screenshot/
 
 ### STS ###
 .apt_generated
